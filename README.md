@@ -1,6 +1,7 @@
 # Olá, eu sou o Cauã Dezidera
 
 - 🔭 Cursando Análise e Desenvolvimento de sistemas (1 semestre)
+- 🏫 Estudante da Fatec São José dos Campos
 - 📫 Contate-me no email: dezideracaua@gmail.com 
 - 📱  Instagram: @cauadezidera
 ##

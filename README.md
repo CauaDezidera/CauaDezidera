@@ -4,6 +4,7 @@
 - 🏫 Estudante da Fatec São José dos Campos
 - 📫 Contate-me no email: dezideracaua@gmail.com 
 - 📱  Instagram: @cauadezidera
+- 🔎 Procurando estágio na área de TI
 
 <br> 
 

@@ -1,15 +1,13 @@
 # Olá, eu sou o Cauã Dezidera
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas (1 semestre)
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas (5 semestre)
 - 🏫 Estudante da Fatec São José dos Campos
 - 📫 Contate-me no email: dezideracaua@gmail.com 
-- 📱  Instagram: @cauadezidera
 - 🔎 Procurando estágio na área de TI
 
 <br> 
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaDezidera&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaDezidera&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
